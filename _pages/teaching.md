@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Stanford University, Teaching Assistant
 
-Organize your courses by years, topics, or universities, however you like!
+**Winter 2024**: ECON 146: Economics of Education 
+
+**Fall 2023**: ECON 1: Principles of Economics [evaluations]
+
+**Winter 2023**: ECON 118: Development Economics (Outstanding TA Award) [evaluations]
