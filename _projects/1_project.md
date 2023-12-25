@@ -2,7 +2,7 @@
 layout: page
 title: "Effectiveness of modern-day school desegregation efforts: Evidence from Charlotte-Mecklenburg Schools"
 description: 
-img: assets/img/Map_Prop_Disadvantaged_1617.jpg
+img: assets/img/Map_Prop_Disadvantaged_1617.png
 importance: 1
 category: Working Papers
 related_publications: 
