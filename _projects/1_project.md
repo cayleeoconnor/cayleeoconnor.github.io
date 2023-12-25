@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Effectiveness of modern-day school desegregation efforts: Evidence from Charlotte-Mecklenburg Schools
+title: Effectiveness of modern-day school desegregation efforts Evidence from Charlotte-Mecklenburg Schools
 description: 
 img: assets/img/12.jpg
 importance: 1
