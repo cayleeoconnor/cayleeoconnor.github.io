@@ -9,7 +9,7 @@ nav_order: 5
 
 Stanford University, Teaching Assistant
 
-**Winter 2024**: ECON 146: Economics of Education 
+**Winter 2024**: ECON 146: Economics of Education (Outstanding TA Award) 
 <a href="https://cayleeoconnor.github.io/assets/pdf/W24-ECON146_CayleeO'Connor-SectionFeedback.pdf" target="_blank">[evaluations]</a>
 
 **Fall 2023**: ECON 1: Principles of Economics
