@@ -7,6 +7,7 @@
 title: Caylee O'Connor
 # Website URL
 baseURL: 'https://cayleeoconnor.com/'
+icon: "icon.png"
 
 ############################
 ## LANGUAGE
