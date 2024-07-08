@@ -13,6 +13,20 @@
   {{ end }}
   {{ end }}
 
+  {{ if not (in (slice "talk" "page") $page.Type) }}
+  <span class="article-date">
+    {{ $date := "" }}
+    {{ if eq $page.Type "publication" }}
+      {{ $date = "" }}
+    {{ else }}
+      {{ if ne $page.Params.Lastmod $page.Params.Date }}
+          {{ i18n "last_updated" }}
+      {{ end }}
+    {{ end }}
+    {{ $date }}
+  </span>
+  {{ end }}
+
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
   <span class="middot-divider"></span>
   <span class="pub-publication">
