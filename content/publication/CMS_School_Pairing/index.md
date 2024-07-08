@@ -60,7 +60,7 @@ slides: example
 
 ## Interactive Map
 
-<iframe src="/publication/cms_school_pairing/Interactive_Map_Pairable_Schools.html" width="100%" height="600"></iframe>
+<iframe src="Interactive_Map_Pairable_Schools.html" width="100%" height="600"></iframe>
 
 
 
