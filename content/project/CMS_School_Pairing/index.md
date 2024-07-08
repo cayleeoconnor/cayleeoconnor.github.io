@@ -1,8 +1,8 @@
 ---
 layout: page
+date: ''
 title: "Effectiveness of modern-day school integration efforts: Evidence from Charlotte-Mecklenburg Schools"
 description: 
-img: Map_Prop_Disadvantaged_1617.png
 importance: 1
 category: Working Papers
 related_publications: 
