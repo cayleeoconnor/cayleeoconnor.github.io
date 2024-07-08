@@ -1,5 +1,6 @@
 {{ $is_list := .is_list }}
 {{ $page := .page }}
+{{ $date := ""}}
 
 <div class="article-metadata">
 
@@ -11,16 +12,6 @@
     {{ partial "page_metadata_authors" $page }}
   </div>
   {{ end }}
-  {{ end }}
-
-{{ if not (in (slice "talk" "page" "publication") $page.Type) }}
-  <span class="article-date">
-    {{ $date := $page.Lastmod.Format site.Params.date_format }}
-      {{ if ne $page.Params.Lastmod $page.Params.Date }}
-          {{ i18n "last_updated" }}
-      {{ end }}
-    {{ $date }}
-  </span>
   {{ end }}
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
