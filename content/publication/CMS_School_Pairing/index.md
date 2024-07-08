@@ -60,7 +60,7 @@ slides: example
 
 ## Interactive Map
 
-{{< html src="Interactive_Map_Pairable_Schools.html" >}}
+{{< src="Interactive_Map_Pairable_Schools.html" >}}
 
 
 
