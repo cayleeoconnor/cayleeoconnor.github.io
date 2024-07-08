@@ -60,7 +60,7 @@ slides: example
 
 ## Interactive Map
 
-{{% ref "Interactive_Map_Pairable_Schools.html" %}}
+{{% ref "/content/publication/CMS_School_Pairing/Interactive_Map_Pairable_Schools.html" %}}
 
 
 
