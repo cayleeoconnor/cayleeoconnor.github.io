@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Effectiveness of modern-day school integration efforts: Evidence from Charlotte-Mecklenburg Schools"
 authors:
 - admin
 date: ""
