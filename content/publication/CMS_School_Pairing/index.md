@@ -60,7 +60,11 @@ slides: example
 
 ## Interactive Map
 
-{{% ref "/content/publication/CMS_School_Pairing/Interactive_Map_Pairable_Schools.html" %}}
+<div>
+  <!-- Your HTML content here -->
+  <p>This is some embedded HTML content.</p>
+  <iframe src="Interactive_Map_Pairable_Schools.html" width="100%" height="500px"></iframe>
+</div>
 
 
 
