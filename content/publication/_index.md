@@ -3,7 +3,7 @@ title: Papers
 cms_exclude: true
 
 # View
-view: list
+view: compact
 
 # Optional header image (relative to `static/media/` folder)
 banner:
