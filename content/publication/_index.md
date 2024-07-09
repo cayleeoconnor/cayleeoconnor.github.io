@@ -10,8 +10,4 @@ banner:
   caption: ''
   image: ''
 
-design:
-  # Default section spacing
-  spacing: "6rem"
-
 ---
