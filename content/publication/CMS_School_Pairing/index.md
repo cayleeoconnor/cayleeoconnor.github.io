@@ -4,7 +4,6 @@ authors: ""
 date: ""
 doi: ""
 
-profile: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-08T00:00:00Z"
