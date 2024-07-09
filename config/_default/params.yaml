@@ -56,3 +56,5 @@ features:
     enable: false
   show_date:
     enable: false
+  profile: 
+    enable: false
