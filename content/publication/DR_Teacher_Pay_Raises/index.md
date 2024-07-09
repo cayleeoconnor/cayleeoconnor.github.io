@@ -5,8 +5,8 @@ authors:
 date: ""
 doi: ""
 
+profile: false
 show_date: false
-
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
