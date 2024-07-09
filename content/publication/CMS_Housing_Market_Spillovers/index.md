@@ -18,7 +18,7 @@ publication_types:
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: "It is well-documented that the implementation of historical desegregation plans often led to "white flight," where white parents affected by integration plans either moved their children to private schools or relocated to avoid integration. However, the extent to which white or "rich" flight continues in response to modern school integration efforts is unclear. This paper examines the persistence of this phenomenon by studying a recent elementary school integration policy implemented by Charlotte-Mecklenburg Schools (CMS) in 2018. Using data on house characteristics, house sales, and CMS attendance boundaries before and after the policy change, I compare properties on either side of the affected attendance boundaries — one affected by the policy and the other not — to determine whether the policy influenced the likelihood of a house being sold or the sale price of houses."
 
 # Summary. An optional shortened abstract.
 summary: 
