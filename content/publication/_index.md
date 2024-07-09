@@ -15,17 +15,17 @@ design:
   spacing: "6rem"
 
 sections:
-- block: collection
-    id: papers
-    content:
-      title: Papers
-      filters:
-        folders:
-          - publication
-        featured_only: false
-    design:
-      view: article-grid
-      columns: 2
-      hide_date: true
+  - block: collection
+      id: papers
+      content:
+        title: Papers
+        filters:
+          folders:
+            - publication
+          featured_only: false
+      design:
+        view: article-grid
+        columns: 2
+        hide_date: true
 
 ---
