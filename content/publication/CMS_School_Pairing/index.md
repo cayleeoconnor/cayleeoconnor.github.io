@@ -62,5 +62,6 @@ slides: example
 
 {{< embed-html file="uploads/Interactive_Map_Pairable_Schools.html" >}}
 
+<iframe src="/uploads/Interactive_Map_Pairable_Schools.html" width="100%" height="500px"></iframe>
 
 
