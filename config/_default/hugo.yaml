@@ -29,6 +29,18 @@ cascade:
     header:
       navbar:
         enable: true
+  # view options
+  - _target:
+      kind: view
+    pager: false
+    editable: false
+    hide_date: true
+    show_date_updated: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    share: false
+    
 
 
 ############################
