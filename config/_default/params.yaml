@@ -52,9 +52,6 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  reading_time:
-    enable: false
-  show_date:
-    enable: false
-  profile: 
-    enable: false
+  reading_time: false
+  show_date: false
+  profile: false
