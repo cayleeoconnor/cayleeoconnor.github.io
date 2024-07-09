@@ -1,5 +1,6 @@
 ---
 title: Teaching
+cms_exclude: true
 ---
 
 Stanford University, Teaching Assistant
