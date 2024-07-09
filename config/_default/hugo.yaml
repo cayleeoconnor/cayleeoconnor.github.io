@@ -15,7 +15,6 @@ baseURL: 'https://cayleeoconnor.com/'
 cascade:
   # Blog post options
   - _target:
-      path: /blog/**
       kind: page
     pager: true
     editable: true
