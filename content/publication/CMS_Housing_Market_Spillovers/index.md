@@ -1,14 +1,13 @@
 ---
 title: "Housing market spillovers of modern-day school integration efforts"
-authors:
-- admin
+authors: ""
 date: ""
 doi: ""
 
 profile: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate:
+publishDate: "2024-07-06T00:00:00Z"
 show_date: false
 
 # Publication type.
