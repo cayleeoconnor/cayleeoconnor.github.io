@@ -26,7 +26,7 @@ summary: Within low-and-middle-income countries, there is a large and growing bo
 
 tags:
 
-featured: true
+featured: false
 
 links:
 url_pdf: ''
