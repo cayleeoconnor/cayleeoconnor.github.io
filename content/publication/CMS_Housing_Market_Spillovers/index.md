@@ -26,7 +26,7 @@ summary: 'It is well-documented that the implementation of historical desegregat
 
 tags:
 
-featured: true
+featured: false
 
 links:
 url_pdf: ''
