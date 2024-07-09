@@ -60,7 +60,7 @@ slides: example
 
 ## Interactive Map
 
-The interactive map below shows public elementary schools in the continental United States that could be paired on socioeconomic status (SES) using Common Core of Data (CCD) nonfiscal data from the 2018-19 academic year. Each pair contains two elementary schools in the same district, one which has a majority of low-SES students (as determined by the proportion of students eligible for free or reduced lunch) and one which has a majority of high-SES students. The gap between the proportion of low-SES students at schools in a pair must be at least 55 percentage points.
+The interactive map below shows public elementary schools in the continental United States that could be paired on socioeconomic status (SES) using Common Core of Data (CCD) nonfiscal data from the 2018-19 academic year. Each pair contains two elementary schools in the same district that are within two miles of each other, for which one has a majority of low-SES students (as determined by the proportion of its students eligible for free or reduced lunch) and the other has a majority of high-SES students. The gap between the proportion of low-SES students at schools in a pair must be at least 55 percentage points for the pair to be included on the map. If there are multiple potential pairs in an area, pairs are chosen to maximize the total number of pairs. 2018-19 data are used as many districts did not report lunch program eligibility during the pandemic.
 
 <iframe src="/uploads/Interactive_Map_Pairable_Schools.html" width="100%" height="500px"></iframe>
 
