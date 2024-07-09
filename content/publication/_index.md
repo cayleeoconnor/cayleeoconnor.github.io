@@ -1,5 +1,5 @@
 ---
-title: Papers
+title: Working Papers
 
 # View
 view: citation
