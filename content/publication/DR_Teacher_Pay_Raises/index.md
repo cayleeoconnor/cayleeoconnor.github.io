@@ -1,7 +1,6 @@
 ---
 title: "Can unconditional teacher salary increases improve education quality? Evidence from the Dominican Republic"
-authors:
-- admin
+authors: ""
 date: ""
 doi: ""
 
