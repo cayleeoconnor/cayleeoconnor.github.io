@@ -1,9 +1,8 @@
 ---
 title: Papers
-cms_exclude: true
 
 # View
-view: compact
+view: citation
 
 # Optional header image (relative to `static/media/` folder)
 banner:
