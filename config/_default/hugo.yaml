@@ -29,22 +29,11 @@ cascade:
     header:
       navbar:
         enable: true
-  # menu options
   # home options
   - _target:
       kind: section
-    pager: false
-    editable: false
     hide_date: true
     show_date_updated: false
-    reading_time: false
-    commentable: false
-    show_related: false
-    share: false
-    show_breadcrumb: false
-    header:
-      navbar:
-        enable: true
 
 
 ############################
