@@ -30,9 +30,9 @@ cascade:
       navbar:
         enable: true
   # menu options
-  # page options
+  # home options
   - _target:
-      kind: menu
+      kind: home
     pager: false
     editable: false
     hide_date: true
@@ -41,6 +41,10 @@ cascade:
     commentable: false
     show_related: false
     share: false
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
 
 
 ############################
