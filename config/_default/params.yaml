@@ -52,9 +52,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-# Hide estimated reading time for posts
-reading_time: false
-
-# Hide date
-show_date: false
+  reading_time:
+    enable: false
+  show_date:
+    enable: false
