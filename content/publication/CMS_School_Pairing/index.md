@@ -60,11 +60,7 @@ slides: example
 
 ## Interactive Map
 
-<div>
-  <!-- Your HTML content here -->
-  <p>This is some embedded HTML content.</p>
-  <iframe src="Interactive_Map_Pairable_Schools.html" width="100%" height="500px"></iframe>
-</div>
+{{< embed-html file="Interactive_Map_Pairable_Schools.html" >}}
 
 
 
