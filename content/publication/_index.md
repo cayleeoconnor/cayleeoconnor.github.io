@@ -4,7 +4,7 @@ cms_exclude: true
 
 # View.
 view: article-grid
-show_date: false
+hide_date: true
 
 # Optional header image (relative to `static/media/` folder).
 banner:
