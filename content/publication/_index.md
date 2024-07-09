@@ -2,10 +2,10 @@
 title: Papers
 cms_exclude: true
 
-# View.
-view: citation
+# View
+view: list
 
-# Optional header image (relative to `static/media/` folder).
+# Optional header image (relative to `static/media/` folder)
 banner:
   caption: ''
   image: ''
