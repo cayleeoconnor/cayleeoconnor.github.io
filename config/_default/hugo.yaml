@@ -32,7 +32,7 @@ cascade:
   # menu options
   # home options
   - _target:
-      kind: home
+      kind: section
     pager: false
     editable: false
     hide_date: true
