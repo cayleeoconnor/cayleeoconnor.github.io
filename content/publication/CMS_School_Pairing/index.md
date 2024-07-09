@@ -1,7 +1,6 @@
 ---
 title: "Effectiveness of modern-day school integration efforts: Evidence from Charlotte-Mecklenburg Schools"
-authors:
-- admin
+authors: ""
 date: ""
 doi: ""
 
