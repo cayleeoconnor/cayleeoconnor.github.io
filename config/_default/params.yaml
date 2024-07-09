@@ -53,5 +53,8 @@ features:
   privacy_pack:
     enable: false
 
-# Show estimated reading time for posts? (true/false)
+# Hide estimated reading time for posts
 reading_time: false
+
+# Hide date
+show_date: false
