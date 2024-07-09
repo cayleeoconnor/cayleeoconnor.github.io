@@ -41,6 +41,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-      show_date: false
+      hide_date: true
   
 ---
