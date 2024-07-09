@@ -13,18 +13,18 @@ baseURL: 'https://cayleeoconnor.com/'
 ############################
 
 cascade:
-  # Blog post options
+  # page options
   - _target:
       kind: page
     pager: true
-    editable: true
+    editable: false
     hide_date: true
     show_date_updated: false
     reading_time: false
     commentable: false
-    show_related: true
+    show_related: false
     share: true
-    # Just use Breadcrumb for navigation on blog post pages?
+    # Just use Breadcrumb for navigation on pages?
     show_breadcrumb: false
     header:
       navbar:
