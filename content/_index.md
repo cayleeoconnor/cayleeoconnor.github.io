@@ -39,7 +39,7 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
+      view: showcase
       columns: 2
       hide_date: true
   
