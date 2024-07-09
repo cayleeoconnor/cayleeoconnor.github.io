@@ -5,6 +5,9 @@ date: ""
 doi: ""
 
 profile: false
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2024-07-05T00:00:00Z"
 show_date: false
 
 # Publication type.
