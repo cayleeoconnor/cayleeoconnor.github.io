@@ -63,6 +63,8 @@ slides: example
 
 The interactive map below displays public elementary schools in the continental United States that could be paired on socioeconomic status (SES) under the following criteria: 1) each pair consists of two elementary schools within the same district that are no more than two miles apart, where one school has a majority of low-SES students (determined by the proportion of students eligible for free or reduced lunch) and the other has a majority of high-SES students; and 2) the difference in the proportion of low-SES students between the two schools in each pair must be at least 40 percentage points. If there are multiple potential pairs in an area, the pairs are selected to maximize the total number of pairs. I used nonfiscal data from the Common Core of Data (CCD) for the 2018-19 academic year to generate these pairs, as many districts did not report lunch program eligibility during the pandemic.
 
+Visually, the two schools in a pair have the same border color, but the majority low-SES school is filled white and the majority high-SES school is filled black. If you click on a school, you can see the school name, district name, pair ID, and proportion of low-SES students at the school in 2018-19.
+
 <iframe src="/uploads/Interactive_Map_Pairable_Schools.html" width="100%" height="500px"></iframe>
 
 
