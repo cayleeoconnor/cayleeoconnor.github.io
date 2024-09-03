@@ -24,7 +24,7 @@ sections:
         color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: Rainbow Gradient Pink and Purple Virtual Background.png
+          filename: Dark Green Waves Background.png
           filters:
             brightness: 1.0
           size: cover
