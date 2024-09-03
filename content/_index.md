@@ -24,7 +24,7 @@ sections:
         color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: Dark Green Waves Background.png
+          filename: Blue Purple White Gradients Style.png
           filters:
             brightness: 1.0
           size: cover
