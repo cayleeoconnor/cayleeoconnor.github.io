@@ -24,7 +24,7 @@ sections:
         color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: TZ_Elephant.jpg
+          filename: Rainbow Gradient Pink and Purple Virtual Background.png
           filters:
             brightness: 1.0
           size: cover
