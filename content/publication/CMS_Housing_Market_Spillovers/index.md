@@ -1,5 +1,5 @@
 ---
-title: "Housing market spillovers of modern-day school integration efforts"
+title: "Housing market spillovers of modern school integration efforts"
 authors: ""
 date: ""
 doi: ""
