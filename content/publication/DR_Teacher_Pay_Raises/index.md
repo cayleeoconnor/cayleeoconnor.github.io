@@ -19,10 +19,10 @@ publication_types:
 publication: ""
 publication_short: ""
 
-abstract: Within low-and-middle-income countries, there is a large and growing body of literature which shows that teacher performance pay is effective at improving student outcomes; however, evidence on the effects of unconditional teacher pay raises is scarce and mixed. Using a recent increase in the salaries of teachers in the Dominican Republic, I study whether unconditional pay raises can change 1) the composition of individuals in the teaching profession, and/or 2) the quality of education in a country.
+abstract: Within low-and-middle-income countries, there is a large and growing body of literature that shows that teacher performance pay is effective at improving student outcomes; however, evidence on the effects of unconditional teacher pay raises is scarce and mixed. Using a recent increase in the salaries of teachers in the Dominican Republic, I study whether unconditional pay raises can change 1) the composition of individuals in the teaching profession, and 2) the quality of education in a country.
 
 # Summary. An optional shortened abstract.
-summary: Within low-and-middle-income countries, there is a large and growing body of literature which shows that teacher performance pay is effective at improving student outcomes; however, evidence on the effects of unconditional teacher pay raises is scarce and mixed. Using a recent increase in the salaries of teachers in the Dominican Republic, I study whether unconditional pay raises can change 1) the composition of individuals in the teaching profession, and/or 2) the quality of education in a country.
+summary: Within low-and-middle-income countries, there is a large and growing body of literature that shows that teacher performance pay is effective at improving student outcomes; however, evidence on the effects of unconditional teacher pay raises is scarce and mixed. Using a recent increase in the salaries of teachers in the Dominican Republic, I study whether unconditional pay raises can change 1) the composition of individuals in the teaching profession, and 2) the quality of education in a country.
 
 tags:
 
