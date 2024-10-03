@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of modern school integration efforts: Evidence from Charlotte-Mecklenburg Schools"
+title: "Effectiveness of modernized school integration efforts"
 authors: ""
 date: ""
 doi: ""
@@ -19,10 +19,10 @@ publication_types:
 publication: ""
 publication_short: ""
 
-abstract: After the end of court-mandated desegregation plans, many school districts in the U.S. have become re-segregated on race and economic status. In 2018, Charlotte-Mecklenburg Schools piloted a new voluntary integration plan in an attempt to curtail high rates of re-segregation within the district. This paper studies whether the new integration plan 1) was successful at reducing economic segregation within neighborhood schools, and/or 2) had an effect on students' educational outcomes.
+abstract: After the end of court-mandated desegregation, many U.S. school districts have experienced re-segregation by race and economic status. This paper examines the impact of modern, voluntary integration plans on reducing economic segregation in public K-12 schools by studying a 2018 integration policy in Charlotte, North Carolina and its effects on school- and student-level outcomes. I find that economic segregation significantly decreased at the affected schools; however, enrollment also dropped significantly, indicating that students responded endogenously to the policy. While average test scores at treated schools increased after the policy, students from predominantly low-SES schools experienced negative impacts on test scores, whereas those from predominantly high-SES schools saw improvements. 
 
 # Summary. An optional shortened abstract.
-summary: After the end of court-mandated desegregation plans, many school districts in the U.S. have become re-segregated on race and economic status. In 2018, Charlotte-Mecklenburg Schools piloted a new voluntary integration plan in an attempt to curtail high rates of re-segregation within the district. This paper studies whether the new integration plan 1) was successful at reducing economic segregation within neighborhood schools, and/or 2) had an effect on students' educational outcomes.
+summary: After the end of court-mandated desegregation, many U.S. school districts have experienced re-segregation by race and economic status. This paper examines the impact of modern, voluntary integration plans on reducing economic segregation in public K-12 schools by studying a 2018 integration policy in Charlotte, North Carolina and its effects on school- and student-level outcomes. I find that economic segregation significantly decreased at the affected schools; however, enrollment also dropped significantly, indicating that students responded endogenously to the policy. While average test scores at treated schools increased after the policy, students from predominantly low-SES schools experienced negative impacts on test scores, whereas those from predominantly high-SES schools saw improvements. 
 
 tags:
 
