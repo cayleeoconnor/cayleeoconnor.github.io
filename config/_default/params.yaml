@@ -7,9 +7,6 @@
 appearance:
   mode: light
   color: emerald
-  avatar:
-    image: "authors/admin/avatar.jpg"
-    caption: "Photo by Vanessa Coleman"
 
 # SEO
 marketing:
