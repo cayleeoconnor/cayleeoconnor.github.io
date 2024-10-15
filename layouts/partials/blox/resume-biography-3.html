@@ -47,7 +47,7 @@
       <img class="avatar rounded-full bg-white border border-white p-1" 
         src="{{ $avatar_image.RelPermalink }}" 
         alt="{{$person_page.Title}}"
-        width="{{ 500 }}" height="{{ 500 }}">
+        width="{{ $avatar_image.Width }}" height="{{ $avatar_image.Height }}">
       {{ if .Site.Params.profile.avatar.credit }}
         <div class="text-sm text-gray-500 mt-2">
           {{ .Site.Params.profile.avatar.credit | markdownify }}
