@@ -9,7 +9,7 @@ appearance:
   color: emerald
   avatar:
     image: "authors/admin/avatar.jpg"
-    credit: "Photo by Vanessa Coleman"
+    caption: "Photo by Vanessa Coleman"
 
 # SEO
 marketing:
