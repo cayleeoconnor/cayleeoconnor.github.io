@@ -45,7 +45,7 @@
     <div class="avatar-wrapper {{ if $img }}-mt-[105px]{{else}}mt-10{{end}}">
       {{ $avatar_image := $avatar.Fill "150x150 Center" }}
       <img class="avatar rounded-full bg-white border-2 border-white p-1" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
-           width="{{ 200 }}" height="{{ 200 }}">
+           width="{{ 500 }}" height="{{ 500 }}">
       {{ if .Site.Params.profile.avatar.credit }}
         <div class="text-sm text-gray-500 mt-2">
           {{ .Site.Params.profile.avatar.credit | markdownify }}
