@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of modernized school integration efforts"
+title: "Effectiveness of modern school integration efforts"
 authors: ""
 date: ""
 doi: ""
@@ -19,10 +19,10 @@ publication_types:
 publication: ""
 publication_short: ""
 
-abstract: After the end of court-mandated desegregation, many U.S. school districts have experienced re-segregation by race and economic status. This paper examines the impact of modern, voluntary integration plans on reducing economic segregation in public K-12 schools by studying a 2018 integration policy in Charlotte, North Carolina and its effects on school- and student-level outcomes. I find that economic segregation significantly decreased at the affected schools; however, enrollment also dropped significantly, indicating that students responded endogenously to the policy. While average test scores at treated schools increased after the policy, students from predominantly low-SES schools experienced negative impacts on test scores, whereas those from predominantly high-SES schools saw improvements. 
+abstract: Since the end of court-mandated desegregation, many U.S. school districts have re-segregated along racial and economic lines. This paper examines the impact of school pairing -- a modern voluntary integration approach -- on both economic segregation and student outcomes in public K-12 schools, using a 2018 policy in Charlotte, North Carolina as a case study. I find that economic segregation at the affected schools decreased significantly; however, enrollment also dropped sharply, suggesting that many students chose to leave paired schools in response to the policy. While average outcomes at paired schools improved, students from predominantly low-SES neighborhoods experienced declines in their test scores and were more likely to receive a short-term suspension, whereas those from predominantly high-SES neighborhoods saw slight improvements on test scores and no effect on the likelihood of receiving a short-term suspension. 
 
 # Summary. An optional shortened abstract.
-summary: After the end of court-mandated desegregation, many U.S. school districts have experienced re-segregation by race and economic status. This paper examines the impact of modern, voluntary integration plans on reducing economic segregation in public K-12 schools by studying a 2018 integration policy in Charlotte, North Carolina and its effects on school- and student-level outcomes. 
+summary: Since the end of court-mandated desegregation, many U.S. school districts have re-segregated along racial and economic lines. This paper examines the impact of school pairing -- a modern voluntary integration approach -- on both economic segregation and student outcomes in public K-12 schools, using a 2018 policy in Charlotte, North Carolina as a case study.
 
 tags:
 
