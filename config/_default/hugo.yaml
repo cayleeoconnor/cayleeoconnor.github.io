@@ -80,3 +80,7 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+profile:
+  avatar:
+    credit: "Photo by Vanessa Coleman"
