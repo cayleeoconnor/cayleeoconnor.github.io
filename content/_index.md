@@ -39,6 +39,6 @@ sections:
           - publication
         featured_only: false
     design:
-      view: citation
+      view: workingPapers
   
 ---
