@@ -42,7 +42,7 @@
   <div id="profile" class="flex justify-center items-center flex-col">
     {{ if $avatar }}
 
-    <div class="avatar-wrapper flex justify-center" style="margin-bottom: 4.5rem; width: 100%; max-width: none;">
+    <div class="avatar-wrapper flex justify-center" style="margin-bottom: 4.5rem; width: 100%; max-width: none; height: 100%; max-height: none;">
       {{ $avatar_image := $avatar.Fill "2000x3000 Center" }}
       <img class="avatar bg-white border border-white p-1" 
         src="{{ $avatar_image.RelPermalink }}" 
