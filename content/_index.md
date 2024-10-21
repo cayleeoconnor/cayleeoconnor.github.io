@@ -33,7 +33,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Papers
+      title: Working Papers
       filters:
         folders:
           - publication
