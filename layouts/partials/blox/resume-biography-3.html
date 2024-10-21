@@ -43,7 +43,7 @@
     {{ if $avatar }}
 
     <div class="avatar-wrapper flex justify-center" style="margin-bottom: 0.5rem; width: 50%; height: 50%;">
-      {{ $avatar_image := $avatar.Fill "500x500 Center" }}
+      {{ $avatar_image := $avatar.Fill "500x600 Center" }}
       <img class="avatar bg-white border border-white p-1" 
         src="{{ $avatar_image.RelPermalink }}" 
         alt="{{$person_page.Title}}",
