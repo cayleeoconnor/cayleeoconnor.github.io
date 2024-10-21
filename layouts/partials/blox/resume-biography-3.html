@@ -42,11 +42,12 @@
   <div id="profile" class="flex justify-center items-center flex-col">
     {{ if $avatar }}
 
-    <div class="avatar-wrapper flex justify-center" style="margin-bottom: 0.5rem; width: 100%; height: 100%;">
-      {{ $avatar_image := $avatar.Fill "2000x2500 Center" }}
+    <div class="avatar-wrapper flex justify-center" style="margin-bottom: 0.5rem; width: 50%; height: 50%;">
+      {{ $avatar_image := $avatar.Fill "1000x1250 Center" }}
       <img class="avatar bg-white border border-white p-1" 
         src="{{ $avatar_image.RelPermalink }}" 
-        alt="{{$person_page.Title}}">
+        alt="{{$person_page.Title}}",
+        style="width: 100%; height: 100%; max-width: 4000px; max-height: 6000px;">
       {{ if .Site.Params.profile.avatar.credit }}
         <div class="text-sm text-gray-500 mt-2">
           {{ .Site.Params.profile.avatar.credit | markdownify }}
