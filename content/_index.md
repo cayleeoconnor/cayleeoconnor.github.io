@@ -37,10 +37,8 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
     design:
-      view: showcase
-      columns: 2
-      hide_date: true
+      view: citation
   
 ---
