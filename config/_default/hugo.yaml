@@ -8,33 +8,6 @@ title: Caylee O'Connor
 # Website URL
 baseURL: 'https://cayleeoconnor.com/'
 
-############################
-## PAGE OPTIONS
-############################
-
-cascade:
-  # page options
-  - _target:
-      kind: page
-    pager: true
-    editable: false
-    hide_date: true
-    show_date_updated: false
-    reading_time: false
-    commentable: false
-    show_related: false
-    share: true
-    # Just use Breadcrumb for navigation on pages?
-    show_breadcrumb: false
-    header:
-      navbar:
-        enable: true
-  # home options
-  - _target:
-      kind: section
-    hide_date: true
-    show_date_updated: false
-
 
 ############################
 ## LANGUAGE
@@ -53,9 +26,11 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-pagination.pagerSize: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   authors: '/author/:slug/'
@@ -65,7 +40,7 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 100
+  quality: 80
   anchor: smart
 timeout: 600000
 taxonomies:

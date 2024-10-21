@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Papers | Caylee O&#39;Connor</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Working Papers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu14013346868240367797.PNG</url>
+      <title>Working Papers</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Effectiveness of modern school integration efforts</title>
+      <link>http://localhost:1313/publication/cms_school_pairing/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cms_school_pairing/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;interactive-map&#34;&gt;Interactive Map&lt;/h2&gt;
+&lt;p&gt;The interactive map below displays public elementary schools in the continental United States that could be paired on socioeconomic status (SES) under the following criteria: 1) each pair consists of two elementary schools within the same district that are no more than two miles apart, where one school has a majority of low-SES students (determined by the proportion of students eligible for free or reduced lunch) and the other has a majority of high-SES students; and 2) the difference in the proportion of low-SES students between the two schools in each pair must be at least 40 percentage points. If there are multiple potential pairs in an area, the pairs are selected to maximize the total number of pairs. I used nonfiscal data from the Common Core of Data (CCD) for the 2018-19 academic year to generate these pairs, as many districts did not report lunch program eligibility during the pandemic.&lt;/p&gt;
+&lt;p&gt;Visually, the two schools in a pair have the same border color, but the majority low-SES school is filled white and the majority high-SES school is filled black. If you click on a school, you can see the school name, district name, pair ID, and proportion of low-SES students at the school in 2018-19.&lt;/p&gt;
+&lt;iframe src=&#34;http://localhost:1313/uploads/Interactive_Map_Pairable_Schools.html&#34; width=&#34;100%&#34; height=&#34;500px&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Housing market spillovers of modern school integration efforts</title>
+      <link>http://localhost:1313/publication/cms_housing_market_spillovers/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cms_housing_market_spillovers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can unconditional teacher salary increases improve education quality? Evidence from the Dominican Republic</title>
+      <link>http://localhost:1313/publication/dr_teacher_pay_raises/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dr_teacher_pay_raises/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
