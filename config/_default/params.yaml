@@ -54,5 +54,7 @@ features:
     enable: false
   reading_time: false
   show_date: false
-  profile: false
+  profile:
+    avatar:
+      credit: "Photo by Vanessa Coleman"
 
