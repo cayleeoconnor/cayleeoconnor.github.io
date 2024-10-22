@@ -36,7 +36,7 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - publication
+          - research
         featured_only: false
     design:
       view: title-summary
