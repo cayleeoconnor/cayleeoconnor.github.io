@@ -1,5 +1,5 @@
 ---
-title: "Effectiveness of modern school integration efforts"
+title: "Effectiveness of modern school integration efforts [Job Market Paper]"
 authors: ""
 date: ""
 doi: ""
@@ -56,7 +56,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 ##
 ## Interactive Map
