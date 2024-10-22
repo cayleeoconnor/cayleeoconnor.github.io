@@ -2,7 +2,7 @@
 title: Working Papers
 
 # View
-view: citation
+view: working-papers
 
 # Optional header image (relative to `static/media/` folder)
 banner:

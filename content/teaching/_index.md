@@ -1,7 +1,14 @@
 ---
 title: Teaching
 view: List
+
 ---
+
+<style>
+h1 {
+  text-align: center;
+}
+</style>
 
 Stanford University, Teaching Assistant
 

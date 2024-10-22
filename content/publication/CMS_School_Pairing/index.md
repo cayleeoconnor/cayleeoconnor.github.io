@@ -22,14 +22,14 @@ publication_short: ""
 abstract: Since the end of court-mandated desegregation, many U.S. school districts have re-segregated along racial and economic lines. This paper examines the impact of school pairing -- a modern voluntary integration approach -- on both economic segregation and student outcomes in public K-12 schools, using a 2018 policy in Charlotte, North Carolina as a case study. I find that economic segregation at the affected schools decreased significantly; however, enrollment also dropped sharply, suggesting that many students chose to leave paired schools in response to the policy. While average outcomes at paired schools improved, students from predominantly low-SES neighborhoods experienced declines in their test scores and were more likely to receive a short-term suspension, whereas those from predominantly high-SES neighborhoods saw slight improvements on test scores and no effect on the likelihood of receiving a short-term suspension. 
 
 # Summary. An optional shortened abstract.
-summary: Since the end of court-mandated desegregation, many U.S. school districts have re-segregated along racial and economic lines. This paper examines the impact of school pairing -- a modern voluntary integration approach -- on both economic segregation and student outcomes in public K-12 schools, using a 2018 policy in Charlotte, North Carolina as a case study.
+summary: Since the end of court-mandated desegregation, many U.S. school districts have re-segregated along racial and economic lines. This paper examines the impact of school pairing -- a modern voluntary integration approach -- on both economic segregation and student outcomes in public K-12 schools, using a 2018 policy in Charlotte, North Carolina as a case study. I find that economic segregation at the affected schools decreased significantly; however, enrollment also dropped sharply, suggesting that many students chose to leave paired schools in response to the policy. While average outcomes at paired schools improved, students from predominantly low-SES neighborhoods experienced declines in their test scores and were more likely to receive a short-term suspension, whereas those from predominantly high-SES neighborhoods saw slight improvements on test scores and no effect on the likelihood of receiving a short-term suspension. 
 
 tags:
 
 featured: true
 
 links:
-url_pdf: ''
+url_pdf: '' #https://cayleeoconnor.com
 url_code: ''
 url_dataset: ''
 url_poster: ''
