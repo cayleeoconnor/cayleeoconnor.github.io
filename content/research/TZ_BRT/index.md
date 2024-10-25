@@ -1,13 +1,13 @@
 ---
-title: "Can Unconditional Teacher Salary Increases Improve Education Quality? Evidence from the Dominican Republic"
-authors: ""
+title: "Transportation, Gentrification & Urban Mobility: The Inequality Effects of Place-Based Policies"
+authors: "Gharad Bryan, Melanie Morten, Clare Balboni, Bilal Siddiqi"
 date: ""
 doi: ""
 
 profile: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-05T00:00:00Z"
+publishDate: "2024-07-08T00:00:00Z"
 show_date: false
 
 # Publication type.
@@ -19,17 +19,17 @@ publication_types:
 publication: ""
 publication_short: ""
 
-abstract: Within low-and-middle-income countries, there is a large and growing body of literature that shows that teacher performance pay is effective at improving student outcomes; however, evidence on the effects of unconditional teacher pay raises is scarce and mixed. Using a recent increase in the salaries of teachers in the Dominican Republic, I study whether unconditional pay raises can change 1) the composition of individuals in the teaching profession, and 2) the quality of education in a country.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
 
-featured: false
+featured: true
 
 links:
-url_pdf: ''
+url_pdf: '' #https://cayleeoconnor.com
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -56,5 +56,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
