@@ -45,8 +45,6 @@ awards:
 
 ## About Me
 
-I am a PhD candidate in economics at Stanford University. My primary fields are public, labor, and development economics. I study how to improve education quality and increase access to high-quality education amongst underserved communities in both the U.S. and low- and middle-income countries.
-
-In July 2025, I will join The Burning Glass Institute as an Economist.
+I am an Economist at The Burning Glass Institute. I received my PhD in Economics from Stanford University, where I studied public, labor, and development economics. I am particularly passionate about understanding how to improve education quality and increase access to high-quality education amongst underserved communities in both the U.S. and low- and middle-income countries.
 
 Feel free to contact me at cayleeaoconnor[at]gmail[dot]com!
