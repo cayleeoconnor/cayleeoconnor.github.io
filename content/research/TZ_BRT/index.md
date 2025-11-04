@@ -7,7 +7,7 @@ doi: ""
 profile: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-08T00:00:00Z"
+publishDate: "2025-11-04T00:00:00Z"
 show_date: false
 
 # Publication type.
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: Roads, buses, parks and other urban public goods aim to improve lives. However, because this infrastructure is built in places not assigned to people, its benefits depend on how mobile residents select into affected areas. We present a framework to clarify how impacts on place relate to impacts on people. We then study labor market impacts of Dar es Salaam’s BRT, using novel data that tracks places and people. Those who select in are more likely employed commuters ex-ante, and are not motivated by labor market gains. People effects are smaller than place effects, but both reveal labor market gains.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Roads, buses, parks and other urban public goods aim to improve lives. However, because this infrastructure is built in places not assigned to people, its benefits depend on how mobile residents select into affected areas. We present a framework to clarify how impacts on place relate to impacts on people. We then study labor market impacts of Dar es Salaam’s BRT, using novel data that tracks places and people. Those who select in are more likely employed commuters ex-ante, and are not motivated by labor market gains. People effects are smaller than place effects, but both reveal labor market gains.
 
 tags:
 
