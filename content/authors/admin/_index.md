@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Economics PhD student
+role: Economist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Stanford University
+  - name: The Burning Glass Institute
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
