@@ -1,7 +1,7 @@
 ---
-title: "Transportation, Gentrification & Urban Mobility: The Inequality Effects of Place-Based Policies"
-authors: "Gharad Bryan, Melanie Morten, Clare Balboni, Bilal Siddiqi"
-date: ""
+title: "Impacts of Infrastructure: People versus Place"
+authors: "Clare Balboni, Gharad Bryan, Melanie Morten, Caylee O'Connor, Bilal Siddiqi"
+date: "2025"
 doi: ""
 
 profile: false
@@ -19,7 +19,7 @@ publication_types:
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: Roads, buses, parks and other urban public goods aim to improve lives. However, because this infrastructure is built in places not assigned to people, its benefits depend on how mobile residents select into affected areas. We present a framework to clarify how impacts on place relate to impacts on people. We then study labor market impacts of Dar es Salaam’s BRT, using novel data that tracks places and people. Those who select in are more likely employed commuters ex-ante, and are not motivated by labor market gains. People effects are smaller than place effects, but both reveal labor market gains.
 
 # Summary. An optional shortened abstract.
 summary: 
