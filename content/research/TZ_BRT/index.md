@@ -1,7 +1,7 @@
 ---
 title: "Impacts of Infrastructure: People versus Place"
 authors: "Clare Balboni, Gharad Bryan, Melanie Morten, Caylee O'Connor, Bilal Siddiqi"
-date: "2025"
+date: ""
 doi: ""
 
 profile: false
